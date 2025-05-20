@@ -64,7 +64,7 @@ Este archivo compara tus respuestas con las correctas y muestra un reporte indic
 1. Compila primero el código fuente:
 
    ```bash
-   javac -d out src/main/ejercico1/AlgoritmosEjemplo.java src/main/ejercico1/RespuestasComplejidad.java
+   javac -d out src/main/ejercicio1/AlgoritmosEjemplo.java src/main/ejercicio1/RespuestasComplejidad.java
    ```
 2. Luego compila el test (indicando dónde buscar las clases compiladas):
 
@@ -170,7 +170,7 @@ public static boolean tieneDuplicadosOpt(int[] arr) {
 1. Compila primero el código fuente del ejercicio 2:
 
    ```bash
-   javac -d out src/main/ejercico3/AlgoritmosInóptimos.java src/main/ejercico3/RespuestasOptimizadas.java
+   javac -d out src/main/ejercicio2/AlgoritmosInoptimos.java src/main/ejercicio2/RespuestasOptimizadas.java
    ```
 2. Luego compila el test (indicando el classpath de salida):
 
